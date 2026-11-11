@@ -1,16 +1,16 @@
 {
-  "title":"The boy from venus",
-  "description":"",
-  "artist":"shencomix",
-  "author":"shencomix",
-  "cover":"https://n3.pawchive.pw/data/11f/84/1f845c3675c7cb6806afbdd5225d3d5294753763fc15d0d2b2f87c755ab82892.png?f=2500%2001.png",
-  "chapters":{
-    "0":{
-      "title":"",
+  "title": "The boy from venus",
+  "description": "",
+  "artist": "shencomix",
+  "author": "shencomix",
+  "cover": "https://n3.pawchive.pw/data/11f/84/1f845c3675c7cb6806afbdd5225d3d5294753763fc15d0d2b2f87c755ab82892.png?f=2500%2001.png",
+  "chapters": {
+    "0": {
+      "title": "",
       "last_updated": 1789255544,
-      "volume":"1",
+      "volume": "1",
       "groups": {
-        "1-4":[
+        "1-4": [
           "https://n1.pawchive.pw/data/1ff/f0/fff004223c8014a948a1941c96df3eb3c30328eb9d3f97e4ce4c1830487c65d5.png?f=2500%2002.png",
           "https://n1.pawchive.pw/data/114/49/1449900aade0da6620064886fd5f6fba99a66b5a3c800ecf849d472abfdaf728.png?f=2500%2003.png",
           "https://n1.pawchive.pw/data/1b3/eb/b3ebd3da4a8695fb06f0888680ad766dc3824641f56e6fae096c08a8c02bf401.png?f=2500%2004.png",
@@ -30,4 +30,5 @@
         ]
       }
     }
+  }
 }
